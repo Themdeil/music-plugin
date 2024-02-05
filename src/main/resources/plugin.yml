@@ -1,0 +1,4 @@
+name: worldmusic
+version: '${project.version}'
+main: fr.themdeil.worldmusic.Worldmusic
+api-version: '1.20'
