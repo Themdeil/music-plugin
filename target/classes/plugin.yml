@@ -1,5 +1,5 @@
 name: worldmusic
-version: '${project.version}'
+version: '1.0-SNAPSHOT'
 main: fr.themdeil.worldmusic.Worldmusic
 api-version: '1.20'
 commands:
@@ -7,3 +7,4 @@ commands:
     description: "Play World Music"
     permission: worldmusic.play
     aliases: wm
+    
